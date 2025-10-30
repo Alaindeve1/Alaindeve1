@@ -1,19 +1,20 @@
-<div align="center">
-  
-# 👋 Hi, I'm Ndizeye Alain
 
-### Versatile Backend Developer | Full-Stack Capable | Certified Project Manager
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ndizeye%20Alain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=VERSATILE+BACKEND+DEVELOPER;FULL-STACK+CAPABLE;CERTIFIED+PROJECT+MANAGER" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <em>Backend developer specializing in robust server-side solutions with full-stack capabilities from hands-on frontend work. PeopleCert-certified project manager with experience in network operations and virtual assistance. I create efficient, maintainable systems while bridging technical execution with strategic delivery.</em>
+  <em>🚀 Backend developer specializing in robust server-side solutions with full-stack capabilities from hands-on frontend work. PeopleCert-certified project manager with experience in network operations and virtual assistance. I create efficient, maintainable systems while bridging technical execution with strategic delivery.</em>
 </p>
+<p align="center">
+  <a href="https://alainndizeye-portfolio.netlify.app/"><img src="https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/ndizeye-alain/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:alainndizeye11@gmail.com"><img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://wa.me/250799324850"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+</p>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alainndizeye-portfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ndizeye-alain/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alainndizeye11@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/250799324850)
-
-</div>
 
 ---
 
@@ -21,9 +22,9 @@
 
 I'm a passionate full-stack developer based in **Kigali, Rwanda**, with a strong focus on backend development and a keen eye for creating seamless user experiences. Currently working as a **Full Stack Developer at DESC Softlab Ltd**, I bring together technical expertise, project management skills, and a commitment to building scalable, maintainable systems.
 
-- 🔭 Currently working on full-stack applications using **Spring Boot** and **React**
+- 🔭 Currently working on full-stack applications using **Spring Boot** ,**express js** ,**next js** and **React**
 - 🌱 Constantly learning and exploring new technologies in the backend ecosystem
-- 💼 Open to **freelance projects** and **full-time opportunities**
+- 💼 Open to **freelance projects**,**part-time** and **full-time opportunities**
 - 🎯 PeopleCert-certified Project Manager with Agile/Scrum experience
 - ⚡ Fun fact: I bridge the gap between technical execution and strategic delivery
 
@@ -116,6 +117,8 @@ Backend service for an amusement platform with robust API endpoints.
 ## 🎓 Certifications & Skills
 
 - 📜 **PeopleCert Certified Project Manager**
+- 📜 **Certification in Network Operations 1**
+- 📜**Certification in Virtual Assistance**
 - 🔄 **Agile/Scrum Methodologies**
 - 🛠️ **CI/CD Implementation**
 - 🔐 **Authentication & Authorization**
@@ -129,7 +132,7 @@ Backend service for an amusement platform with robust API endpoints.
 I'm always excited to take on new challenges and collaborate on interesting projects. Whether you need a complete web application, API development, or technical consultation, I'm here to help bring your ideas to life with clean, efficient code and innovative solutions.
 
 **Currently available for:**
-- 💼 Full-time opportunities
+- 💼 Part-time & Full-time opportunities
 - 🚀 Freelance projects
 - 🤝 Collaboration on open-source projects
 - 💡 Technical consultation
