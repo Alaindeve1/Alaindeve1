@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate full-stack developer based in **Kigali, Rwanda**, with a strong focus on backend development and a keen eye for creating seamless user experiences. Currently working as a **Full Stack Developer at DESC Softlab Ltd**, I bring together technical expertise, project management skills, and a commitment to building scalable, maintainable systems.
+I'm a passionate  software engineer based in **Kigali, Rwanda**, with a strong focus on backend development and a keen eye for creating seamless user experiences. Currently working as a **Full Stack Developer at DESC Softlab Ltd**, I bring together technical expertise, project management skills, and a commitment to building scalable, maintainable systems.
 
 - 🔭 Currently working on full-stack applications using **Spring Boot** ,**express js** ,**next js** and **React**
 - 🌱 Constantly learning and exploring new technologies in the backend ecosystem
