@@ -121,7 +121,6 @@ Backend service for an amusement platform with robust API endpoints.
 - 📜**Certification in Virtual Assistance**
 - 🔄 **Agile/Scrum Methodologies**
 - 🛠️ **CI/CD Implementation**
-- 🔐 **Authentication & Authorization**
 - 🎨 **Responsive Web Design**
 - 📊 **Database Design & Optimization**
 
