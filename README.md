@@ -1,4 +1,3 @@
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ndizeye%20Alain&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&weight=700&size=28&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=800&lines=VERSATILE+BACKEND+DEVELOPER;FULL-STACK+CAPABLE;CERTIFIED+PROJECT+MANAGER" alt="Typing SVG" />
@@ -97,20 +96,26 @@ Backend service for an amusement platform with robust API endpoints.
 
 ## 💼 Professional Experience
 
-**Full Stack Developer** @ DESC Softlab Ltd *(2025 - Present)*
-- Developing and maintaining RESTful APIs using Node.js and Spring Boot
-- Implementing user authentication systems with JWT and OAuth integration
-- Creating responsive frontend interfaces using React and styled-components
+**Full-Stack Developer** @ DESC Softlab Ltd *(May 2025 - Present)*
+- Develop web applications using Spring Boot, Express.js, React.js, and Next.js for 3+ client projects, Engineer RESTful APIs with optimized caching and queries, improving response times by 25-30%
+- Implement Docker containerization for applications, reducing deployment time by 50%
+- Collaborate with teams of 4-6 members using agile methodologies to deliver features on schedule
 
-**Frontend Developer** @ Codveda Technologies *(May 2025 - Sept 2025)*
-- Completed comprehensive front-end development internship
-- Built interactive applications using React.js and modern web technologies
-- Developed skills in responsive design and performance optimization
+**Software Development Intern** @ TELE 10 Rwanda *(Jul - Aug 2025)*
+- Implemented broadcast management features using React.js and Java for content scheduling modules
+- Collaborated with 3-member engineering team to debug issues and test features before deployment
+- Gained experience with Git workflows, agile processes, and professional development practices
 
-**Full Stack Developer & Virtual Assistant** @ Freelance *(2022 - Present)*
-- Implementing authentication systems with JWT and OAuth
-- Creating responsive interfaces using React and Next.js
-- Providing virtual assistance and data management services
+**Junior Software Developer** @ STINDA Media *(2023 - 2024)*
+- Developed backend services with Express.js processing 1000+ database records
+- Managed PostgreSQL databases including schema design, query optimization, and data integrity
+- Implemented responsive UIs ensuring cross-browser compatibility and mobile responsiveness
+
+**Junior Software Developer (Internship)** @ Fabritech Ltd *(2023 - 2024)*
+- Contributed to full-stack development of 2+ client applications using React.js and backend technologies
+- Designed responsive UI components achieving 90%+ mobile compatibility across devices
+- Maintained existing applications, improving code quality and fixing 15+ production bugs
+- Participated in code reviews and learned industry best practices for maintainable code
 
 ---
 
