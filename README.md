@@ -83,8 +83,6 @@ Backend service for an amusement platform with robust API endpoints.
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alaindeve1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaindeve1&layout=compact&theme=tokyonight&hide_border=true)
 
