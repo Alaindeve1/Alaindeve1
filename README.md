@@ -121,6 +121,7 @@ Backend service for an amusement platform with robust API endpoints.
 - 📜 **PeopleCert Certified Project Manager**
 - 📜 **Certification in Network Operations 1**
 - 📜 **Certification in artificial intelligence fundamentals by ibm SkillsBuild**
+- 📜 **Certification in AI tools usage ,optimisation and prompt engineering by one million prompters**
 - 📜 **Duolingo english test certificate(130+)**
 - 📜**Certification in Virtual Assistance**
 - 🔄 **Agile/Scrum Methodologies**
